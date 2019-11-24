@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fitri Nu Fauziah</string>
+    <string-array name="Prodi">
+        <item>Administrasi Bisnis</item>
+        <item>Komputer Akuntansi</item>
+        <item>Informatika Komputer</item>
+        <item>Sekretaris</item>
+        <item>Multimedia</item>
+    </string-array>
+</resources>
